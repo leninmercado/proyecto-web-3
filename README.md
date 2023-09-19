@@ -36,11 +36,6 @@ No se requiere instalación para este proyecto. Simplemente puedes abrir el arch
 
 Si deseas contribuir a este proyecto, siéntete libre de hacer un fork y enviar un pull request. Estoy abierto a mejoras y sugerencias.
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Puedes consultar el archivo [LICENSE](LICENSE) para obtener más información.
-
----
 ## Autor
 Lenin Mercado
 
