@@ -16,8 +16,10 @@
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1](captura1.png)
-![Captura de Pantalla 2](captura2.png)
+![image](https://github.com/leninmercado/proyecto-web-3/assets/145501901/5ee176ba-93ab-4537-8bd5-2c0c2c45c539)
+![image](https://github.com/leninmercado/proyecto-web-3/assets/145501901/518224f4-47a4-4a93-8ad1-599dbe0253f3)
+![image](https://github.com/leninmercado/proyecto-web-3/assets/145501901/216f7238-a6dd-4148-bd55-fb76a9f34f8b)
+
 
 ## Instalación
 
